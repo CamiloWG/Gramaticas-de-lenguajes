@@ -37,9 +37,11 @@ class Automata:
 
 
 def main():
-    palabra = input('Ingrese la palabra:\n')
-    reader = Automata(palabra)
-    reader.print_result();
+    with open('g5_texto.txt', 'r') as archivo:
+        palabra = archivo.read()
+        if palabra == '': return print('Cadena vacia')
+        reader = Automata(palabra)
+        reader.print_result();
 
 
 if __name__ == '__main__':
