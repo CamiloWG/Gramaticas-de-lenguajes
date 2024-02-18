@@ -13,3 +13,12 @@ Imágen 4. Diagrama de estados finitos para el autómata de la grámatica 4.
 ![Modelo Automata G5](./src/model-g5.png)
 Imágen 5. Diagrama de estados finitos para el autómata de la grámatica 5.
 
+
+<br>
+
+## Miembros del grupo
+
+- Laura González
+- Camilo Madero
+- Paula Páez
+- Felipe Rodriguez
