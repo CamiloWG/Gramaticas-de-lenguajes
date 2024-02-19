@@ -7,11 +7,15 @@ Programas de Python para interpretar diferentes gramaticas
 # Diagrama de estados de automatas 
 
 ![Modelo Autómata G2](./src/model-g2.png)
+
+
 Imágen 2. Diagrama de estados finitos para el autómata de la grámatica 2.
 
 <br>
 
 ![Modelo Autómata G3](./src/model-g3.png)
+
+
 Imágen 3. Diagrama de estados finitos para el autómata de la grámatica 3.
 
 <br>
